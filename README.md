@@ -2,6 +2,7 @@
 
 - Name: Akio Taniguchi (谷口暁星)
 - Job: Postdoc of radio astronomy at Nagoya University, Japan
+- Interests: Data-scientific approaches to development of astronomical instruments
 
 ## :mag_right: Featured publication
 
