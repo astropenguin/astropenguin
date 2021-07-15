@@ -6,5 +6,6 @@
 
 ## :mag_right: Featured publication
 
-- [A new off-point-less observing method for millimeter and submillimeter spectroscopy with a frequency-modulating local oscillator](https://doi.org/10.1093/pasj/psz121) (A. Taniguchi, Y. Tamura et al. 2020, Publications of the Astronomical Society of Japan)
+- [A data-scientific noise-removal method for efficient submillimeter spectroscopy with single-dish telescopes](https://arxiv.org/abs/2107.06290) (Taniguchi et al. 2021, The Astronomical Journal (in press))
+- [A new off-point-less observing method for millimeter and submillimeter spectroscopy with a frequency-modulating local oscillator](https://doi.org/10.1093/pasj/psz121) (Taniguchi et al. 2020, Publications of the Astronomical Society of Japan)
 - [First light demonstration of the integrated superconducting spectrometer](https://doi.org/10.1038/s41550-019-0850-8) (A. Endo, K. Karatsu, Y. Tamura, T. Oshima, A. Taniguchi et al. 2019, Nature Astronomy)
