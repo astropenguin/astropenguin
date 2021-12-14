@@ -8,5 +8,5 @@
 
 - [DESHIMA 2.0: development of an integrated superconducting spectrometer for science-grade astronomical observations](https://arxiv.org/abs/2110.14656) (Taniguchi et al., submitted to the Journal of Low Temperature Physics)
 - [A data-scientific noise-removal method for efficient submillimeter spectroscopy with single-dish telescopes](https://doi.org/10.3847/1538-3881/ac11f7) (Taniguchi et al. 2021, The Astronomical Journal)
-- [A new off-point-less observing method for millimeter and submillimeter spectroscopy with a frequency-modulating local oscillator](https://doi.org/10.1093/pasj/psz121) (Taniguchi et al. 2019, Publications of the Astronomical Society of Japan)
+- [A new off-point-less observing method for millimeter and submillimeter spectroscopy with a frequency-modulating local oscillator](https://doi.org/10.1093/pasj/psz121) (Taniguchi et al. 2020, Publications of the Astronomical Society of Japan)
 - [First light demonstration of the integrated superconducting spectrometer](https://doi.org/10.1038/s41550-019-0850-8) (A. Endo, K. Karatsu, Y. Tamura, T. Oshima, A. Taniguchi et al. 2019, Nature Astronomy)
