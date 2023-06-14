@@ -1,7 +1,7 @@
 ## :penguin: Who am I?
 
 - **Name:** Akio Taniguchi (谷口 暁星)
-- **Job:** Project assistant professor (LMT/FINER) at Nagoya University, Japan
+- **Job:** Project assistant professor (LMT-FINER) at Nagoya University, Japan
 - **Interests:** Data-scientific approaches to development of astronomical instruments
 
 ## :mag_right: Featured publication
