@@ -6,6 +6,7 @@
 
 ## :mag_right: Featured publication
 
+- [A 10.24-GHz-wide digital spectrometer array system for LMT-FINER: system design and laboratory performance verification](https://doi.org/10.1117/12.3018296) (Hagimoto and Taniguchi et al. 2024, Proceedings of SPIE)
 - [Data science based efficient and automated spectroscopy for submillimeter single-dish telescopes](https://doi.org/10.23919/URSIGASS57860.2023.10265475) (Taniguchi et al. 2023, URSI GASS 2023)
 - [DESHIMA 2.0: development of an integrated superconducting spectrometer for science-grade astronomical observations](https://doi.org/10.1007/s10909-022-02888-5) (Taniguchi et al. 2022, The Journal of Low Temperature Physics)
 - [Application of data science to radio spectroscopic imaging observations](https://www.asj.or.jp/jp/activities/geppou/item/115-7_438.pdf) (Taniguchi 2022, The Astronomical Herald)
